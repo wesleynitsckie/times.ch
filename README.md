@@ -2,9 +2,8 @@
 ===========
 
  This is a just a demo script to show the workings of the
- phpunit is done. The Class can be found in the /src/WesTime.php
- and the unit test for testing that class cant be found in the
- tests/ folder
+ phpunit is done. The Class can be found in the [WesTime.php] (src/WesTime.php)
+ and the unit test for testing that class cant be found [here] (tests/WestTimeTest.php)
 
  **To run the test use the follow command:**
 
